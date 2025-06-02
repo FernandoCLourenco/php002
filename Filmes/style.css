@@ -32,4 +32,14 @@ header{
     height: 350px;
     object-fit: cover;
 }
+
+.lista-noticias{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    text-align: center;
+    flex-wrap: wrap;
+}
  

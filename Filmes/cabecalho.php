@@ -10,7 +10,7 @@
 
 <body>
     <header>
-        <img src="img/logo.png" class="logo">
+        <img src="img/logo.png" class="logo" height="150">
         <h1>MovieFlix</h1>
         <nav>
             <a href="index.php">Home</a>
